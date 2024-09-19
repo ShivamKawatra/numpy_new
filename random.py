@@ -1,0 +1,11 @@
+import numpy as np
+arr = np.random.rand(3)
+arrr = np.random.rand(3,5)
+arrrr = np.random.randn(4)
+arrrrr = np.random.ranf(7)
+arrrrrr = np.random.randint(2,30,6)
+print(arr)
+print(arrr)
+print(arrrr)
+print(arrrrr)
+print(arrrrrr)
